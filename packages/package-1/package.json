@@ -1,0 +1,26 @@
+{
+  "name": "package-1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Ajay Pathak <ap221882@gmail.com>",
+  "homepage": "https://github.com/ap221882/lerna-practice-monorepo#readme",
+  "license": "ISC",
+  "main": "lib/package-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ap221882/lerna-practice-monorepo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/package-1.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ap221882/lerna-practice-monorepo/issues"
+  }
+}
