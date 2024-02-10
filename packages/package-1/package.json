@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/ap221882/lerna-practice-monorepo/issues"
+  },
+  "dependencies": {
+    "package-2": "file:../package-2"
   }
 }
