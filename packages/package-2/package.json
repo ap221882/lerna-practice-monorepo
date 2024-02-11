@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/ap221882/lerna-practice-monorepo/issues"
   },
-  "homepage": "https://github.com/ap221882/lerna-practice-monorepo#readme"
+  "homepage": "https://github.com/ap221882/lerna-practice-monorepo#readme",
+  "gitHead": "9c81452f4251c787a6971a1a82a8299dfee61f13"
 }
